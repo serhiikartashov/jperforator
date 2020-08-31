@@ -1,5 +1,13 @@
-*.log
+
 .idea
 *.iml
-log
-src/main/resources/db-dump/init_data.sql
+
+**/*.log
+**/log
+
+### Gradle Patch ###
+**/build/
+.gradle
+
+perforator
+perforator/src/main/resources/db-dump/init_data.sql

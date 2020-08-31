@@ -1,0 +1,5 @@
+rootProject.name = 'perforator'
+include ':simple-test-producer-service', ':simple-test-consumer-service',
+        /*':perforator', */':testcontainers'
+include 'k8ts'
+
