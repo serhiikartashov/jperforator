@@ -1,4 +1,4 @@
-# Perforator
+# Perforator - NOT READY TO USE
 This repo is a sandbox platform for performance testing using JMeter
 
 * Load Testing - testing according to SLA (Service-Level Agreement)
